@@ -1,0 +1,12 @@
+{
+	"name": "prettier-config-rth",
+	"version": "1.0.0",
+	"description": "The Prettier configuration used by Retinbox Software.",
+	"main": ".prettierrc.json",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rthsoftware/prettier-config-rth.git"
+	},
+	"author": "Fuzhou Retiehe Software Co., Ltd.",
+	"license": "MIT"
+}
